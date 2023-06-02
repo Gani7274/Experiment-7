@@ -1,6 +1,6 @@
 # Convolutional Autoencoder for Image Denoising
 
-## AIM
+# AIM
 
 To develop a convolutional autoencoder for image denoising application.
 
